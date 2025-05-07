@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Windows_Gadget" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="OverlayX" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-150</Value>
+    </Setting>
+    <Setting Name="OverlayY" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="OverlayWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">150</Value>
+    </Setting>
+    <Setting Name="OverlayLength" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="WebsiteToShow" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PutYourLinkHere</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

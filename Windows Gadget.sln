@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows Gadget", "Windows Gadget.csproj", "{10164F76-D388-498D-AD7D-5FB29C44BC39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10164F76-D388-498D-AD7D-5FB29C44BC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10164F76-D388-498D-AD7D-5FB29C44BC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10164F76-D388-498D-AD7D-5FB29C44BC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10164F76-D388-498D-AD7D-5FB29C44BC39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F363F849-9E0E-41C0-BCEF-9FAD3D30C69B}
+	EndGlobalSection
+EndGlobal
