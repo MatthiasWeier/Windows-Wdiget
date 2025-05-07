@@ -5,3 +5,8 @@
 - I connected my smartwatch with PULSOID. There you can create a widget
 - Your smart watch need to support BLE (Bluetooth Low Energy)
 - Wanna see my heartrate? https://pulsoid.net/widget/view/2684c122-7e3d-405d-a912-071cd675e11b
+
+
+
+https://github.com/user-attachments/assets/af86ffaf-a04b-4d1c-88b7-4f63c47810a9
+
